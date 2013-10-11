@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+Go through the data in a single pass and mine compressing sequential patterns from the stream. See the following publication for more detail: Zips: Mining Compressing Sequential Patterns in Streams In the IDEA 2013 workshop at KDD 2013. Coauthor with Toon Calders, Jie Yang, Fabian Moerchen and Dmitriy Fradkin.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
